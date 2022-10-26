@@ -1,0 +1,46 @@
+﻿<Window x:Class="Мессенджер.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Мессенджер"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="800" Width="1200">
+
+    <Grid Background="#b7ced2">
+        <!--MinWidth="400" - минимальная ширина, что бы в дальнейшем при увеличение размера она ячейка в месте с ним увеличивалась// Margin="15" - отступ от краев Form// Background="White" - задний фон ячейки// VerticalAlignment="Center" - расположена по центру по вертикали// Padding="30" - внутренние отступы// MaxWidth="550" - максимальный размер// CornerRadius="20" - скругление краев -->
+        <Border MinWidth="500"  MinHeight="400" Margin="120,0,120,0" Background="#dcdde2" VerticalAlignment="Center" Padding="30" MaxWidth="550" CornerRadius="20">
+            <Border.Effect>
+                <!--эффекты-->
+                <!--BlurRadius="30" - радиус рассеености тени// Color="LightGray" - цвет тени// ShadowDepth="0" - дальность тени(короткая)-->
+                <DropShadowEffect BlurRadius="60" Color="#dcdde2" ShadowDepth="0"/>
+            </Border.Effect>
+            <StackPanel>
+                <!--<StackPanel> - указывает что объекты в нутри него будут занимать в ширину на 100%-->
+                <!--Сетка в которой расположенно все друг за друнрм-->
+                <!--FontSize="30" - рамер шрифта// FontWeight="Bold" - жирный шрифт// Margin="0 0 0 20" - характеристики где отступ 20 снизу-->
+
+
+                <Grid Margin="0 0 5 20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="191*"/>
+                        <ColumnDefinition Width="299*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Регистрация" FontSize="30" FontWeight="Bold" Margin="0,10,0,20" Foreground="#FF636250"/>
+                    <Button x:Name="btn_per_Vhod" HorizontalAlignment="Left" Content="Войти" Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="1" Margin="198,18,0,20" Width="88" Cursor="Hand" FontSize="18" Click="btn_Vhod_Click" Foreground="White" BorderBrush="#FF636250" Background="#FF636250"/>
+                </Grid>
+                <StackPanel  HorizontalAlignment="Center" Width="238">
+                    <TextBox x:Name="Login_txt" materialDesign:HintAssist.Hint="Введите логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Cursor="IBeam" FontSize="13" CaretBrush="Black" SelectionBrush="Black" Foreground="#FF636250"/>
+                    <!--materialDesign:HintAssist.Hint="Введите логин" - подсказка при вводе в textBox и будет исчизат когда будем начинать ввод// Style="{StaticResource MaterialDesignАFloatingHinyTextBox}" - стиль-->
+                    <PasswordBox x:Name="Pass_txt" materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" FontSize="13" SelectionBrush="Black" CaretBrush="Black" Foreground="#FF636250"/>
+                    <PasswordBox x:Name="Pass2_txt" materialDesign:HintAssist.Hint="Повторите парольн" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Password="" FontSize="13" CaretBrush="Black" SelectionBrush="Black" Foreground="#FF636250"/>
+                    <TextBox x:Name="Email_txt" materialDesign:HintAssist.Hint="Email" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="13" CaretBrush="Black" SelectionBrush="Black" Foreground="#FF636250"/>
+                    <!--Margin="0 20" - отступ сверху и снизу 20px, кнопка будет во всю ширину-->
+                </StackPanel>
+                <Button x:Name="btn_zaregestrir_akkayn" Content="Зарегистрироваться" Margin="0 20" Background="#FF636250" BorderBrush="#FF636250" Width="276" FontSize="15" Cursor="Hand" Click="btn_zaregestrir_akkayn_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

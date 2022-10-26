@@ -1,0 +1,82 @@
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\Мессенджер.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\Мессенджер.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\Мессенджер.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\EntityFramework.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\MaterialDesignColors.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\EntityFramework.xml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\MaterialDesignColors.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.xml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Friends.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\MainWindow.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Nastroiku.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Perepuska.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Profil.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Vhod.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\App.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер_MarkupCompile.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер_MarkupCompile.lref
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\App.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Friends.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\MainWindow.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Nastroiku.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Perepuska.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Profil.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Vhod.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.g.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.CopyComplete
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Какието действия по дням\11.04.2022\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\x86\sqlite3.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\x64\sqlite3.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\Мессенджер.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\Мессенджер.exe
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\Мессенджер.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\EntityFramework.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\EntityFramework.xml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\bin\Debug\System.Data.SQLite.xml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Friends.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\MainWindow.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Nastroiku.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Perepuska.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Profil.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Vhod.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\App.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер_Content.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер_MarkupCompile.cache
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер_MarkupCompile.lref
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\App.baml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Friends.baml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\MainWindow.baml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Nastroiku.baml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Perepuska.baml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Profil.baml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Vhod.baml
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.g.resources
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.CopyComplete
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.exe
+C:\Users\maksi\OneDrive\Рабочий стол\мессенджер\Мессенджер\Мессенджер\obj\Debug\Мессенджер.pdb
